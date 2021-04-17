@@ -1,6 +1,16 @@
 # flutter_template
 
-A new Flutter project.
+A Flutter Template project.
+This template will introduce the basic usage of flutter using Bloc pattern.
+If you know about the MVVM (Model-View-ViewModel) pattern, the BLoC is the replacement for ViewModel. The BLoC is responsible for managing the state for View, and the Model (or Repository) helps the BLoC to access data no matter local or remote.
+
+## Libraries used
+
+- Different libraries
+  bloc
+  provider
+  rxdart
+- API Spoonacular API
 
 ## Getting Started
 
